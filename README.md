@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @thomaspease
-- Working on becoming a data scientist/ML engineer as part of the AiCore training programme
+- Working on becoming a Data Scientist/ML engineer as part of the AiCore training programme

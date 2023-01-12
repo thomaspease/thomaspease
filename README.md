@@ -40,9 +40,9 @@
 
 </td><td>
 
-| Title   | Technologies |
-| ------- | ------------ |
-| Content | Technologies |
+| Title   |
+| ------- | 
+| [Titanic](https://github.com/thomaspease/titanic_kaggle) |
 
 </td></tr> </table>
 
@@ -57,6 +57,9 @@
 | [Rightmove hypothesis testing](https://github.com/thomaspease/hypothesis_testing_rightmove) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Scipy](https://img.shields.io/badge/Scipy-black?style=flat-square&logo=scipy) |
 
 </td></tr> </table>
+
+<br>
+<br>
 
 Currently Coding & Listening to:
 

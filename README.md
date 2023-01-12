@@ -36,7 +36,7 @@
 | [Facebook Search Ranking](https://github.com/thomaspease/search_ranking) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) <br> ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikit-learn) |
 | [NN warping visualisation](https://github.com/thomaspease/halfmoonwarp) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikit-learn) |
 | [Computer vision game](https://github.com/thomaspease/computer_vision_project) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
-| [Vanilla Python Linear regression](https://github.com/thomaspease/Linear-regression) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
+| [Vanilla Python lin regression](https://github.com/thomaspease/Linear-regression) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
 
 </td><td>
 

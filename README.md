@@ -2,11 +2,6 @@
 
 ## Tom Pease
 
-<br/>
-
-<a href="https://gkos.tech">
-    <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
-</a>  
 <a href="https://tom-pease-cv.tiiny.site/">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
@@ -21,13 +16,13 @@
 
 </p>
 
-- 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/).
+- 👨‍💻 Searching for roles in the **Data Science** space.
 
-- 🎓 Researching on **AI** and **Computer Vision** @ [AICIP Lab](https://aicip.github.io/research.htm).
+- 📖 Completed **AI** and **Machine Learning** training programme @ [AiCore](https://www.theaicore.com/).
+
+- 🎓 Currently working on building the Teacher Education Dataset @ [National Institute of Teaching] (https://niot.org.uk/)
 
 - 💡 Open to collaborating on projects and innovative ideas.
-
-- 💻 Currently working on Semantic Segmentation and Reinforcement Learning.
 
 ### 🖥️ Projects
 

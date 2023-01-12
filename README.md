@@ -58,6 +58,10 @@
 
 </td></tr> </table>
 
+Currently Coding & Listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tom.pease&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=tom.pease&redirect=true)
+
 <details>
 <summary>📈 Stats</summary>
 <br>

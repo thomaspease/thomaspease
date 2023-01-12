@@ -54,7 +54,7 @@
 | ------- | ------------ |
 | [MFL Trainer](https://github.com/thomaspease/mfltrainer) <br> Language learning website | ![Javascript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs)![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)<br>![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb) ![Pug](https://img.shields.io/badge/Pug-black?style=flat-square&logo=pug) ![Sass](https://img.shields.io/badge/Sass-black?style=flat-square&logo=sass) ![Nodemon](https://img.shields.io/badge/Nodemon-black?style=flat-square&logo=nodemon)|
 | [Web scraper](https://github.com/thomaspease/hypothesis_testing_rightmove) | ![Selenium](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=selenium) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![Amazon S3](https://img.shields.io/badge/Amazon_S3-black?style=flat-square&logo=amazons3) ![Amazon RDS](https://img.shields.io/badge/Docker-black?style=flat-square&logo=amazonrds) |
-| [Rightmove hypothesis testing        ](https://github.com/thomaspease/hypothesis_testing_rightmove) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Scipy](https://img.shields.io/badge/Scipy-black?style=flat-square&logo=scipy) |
+| [Rightmove hypothesis testing](https://github.com/thomaspease/hypothesis_testing_rightmove) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Scipy](https://img.shields.io/badge/Scipy-black?style=flat-square&logo=scipy) |
 
 </td></tr> </table>
 
@@ -63,14 +63,14 @@
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomaspease&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thomaspease&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thomaspease&theme=dracula)
 
 <br>
 Currently Coding & Listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tom.pease&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=tom.pease&redirect=true)
 
 </details>

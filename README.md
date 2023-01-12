@@ -33,9 +33,9 @@
 | Title | Technologies |
 | -- | -- |
 | [Modelling Airbnb's Dataset](https://github.com/thomaspease/airbnb_ds_project) | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikit-learn) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) <br> ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) |
-| [Facebook Marketplace Search Ranking](https://github.com/thomaspease/search_ranking) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) <br> ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikit-learn) |
+| [Facebook Search Ranking](https://github.com/thomaspease/search_ranking) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) <br> ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikit-learn) |
 | [NN warping visualisation](https://github.com/thomaspease/halfmoonwarp) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikit-learn) |
-| [Computer vision rock, paper, scissors](https://github.com/thomaspease/computer_vision_project) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
+| [Computer vision game](https://github.com/thomaspease/computer_vision_project) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
 | [Vanilla Python Linear regression](https://github.com/thomaspease/Linear-regression) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
 
 </td><td>
@@ -50,9 +50,9 @@
 <tr><th>Misc Projects </th></tr>
 <tr><td>
 
-| Title   | Poo |
+| Title   | Technologies |
 | ------- | ------------ |
-| [MFL Trainer](https://github.com/thomaspease/mfltrainer) <br> Language learning website | ![Javascript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs)![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)<br>![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb) ![Pug](https://img.shields.io/badge/Pug-black?style=flat-square&logo=pug) ![Sass](https://img.shields.io/badge/Sass-black?style=flat-square&logo=sass) ![Nodemon](https://img.shields.io/badge/Nodemon-black?style=flat-square&logo=nodemon)|
+| [MFL Trainer](https://github.com/thomaspease/mfltrainer) <br> Language learning website | ![Javascript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs)![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)<br>![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb) ![Pug](https://img.shields.io/badge/Pug-black?style=flat-square&logo=pug) ![Sass](https://img.shields.io/badge/Sass-black?style=flat-square&logo=sass) ![Nodemon](https://img.shields.io/badge/Nodemon-black?style=flat-square&logo=nodemon)|[Web scraper](https://github.com/thomaspease/hypothesis_testing_rightmove) | ![Selenium](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=selenium) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![Amazon S3](https://img.shields.io/badge/Amazon_S3-black?style=flat-square&logo=amazons3) ![Amazon RDS](https://img.shields.io/badge/Docker-black?style=flat-square&logo=amazonrds) |[Rightmove hypothesis testing](https://github.com/thomaspease/hypothesis_testing_rightmove) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Scipy](https://img.shields.io/badge/Scipy-black?style=flat-square&logo=scipy) |
 
 </td></tr> </table>
 

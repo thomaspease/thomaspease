@@ -16,7 +16,7 @@
 
 </p>
 
-- 👨‍💻 Searching for roles in the **Data Science** space.
+- 👨‍💻 Open for work.
 
 - 📖 Completed **AI** and **Machine Learning** training programme @ [AiCore](https://www.theaicore.com/).
 
